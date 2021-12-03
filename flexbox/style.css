@@ -1,0 +1,25 @@
+.first{
+    width: 1500px;
+    height: 683px;
+    margin-top: 61px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #C4C4C4;
+}
+.block_1{
+    width: 202.32px;
+    height: 200px;
+    
+    background-color: #323232;
+}
+.block_2{
+    width: 202.32px;
+    height: 200px;
+    background-color: #AB7A7A;
+}
+.block_3{
+    width: 202.32px;
+    height: 200px;
+    background-color: #5F9A43;
+}
