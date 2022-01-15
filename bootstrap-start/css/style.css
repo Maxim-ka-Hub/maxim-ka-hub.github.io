@@ -1,0 +1,40 @@
+.block {
+    min-height: 180px;
+    background-color: #222;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700px;
+    padding: 20px 0;
+    margin: 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-square .block {
+    width: 200px;
+}
+
+.block-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.float-r {
+    float: right;
+}
+
+.container-grey {
+    background-color: #c4c4c4;
+    margin: 20px auto;
+}
+
+.container-group .block {
+    margin: 15px 0;
+}
+
+.height {
+    min-height: 800px;
+}
