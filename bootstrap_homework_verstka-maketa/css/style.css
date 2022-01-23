@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap');
+
+/* justify-content-center */
+
+
+/* align-items-center */
+
+.top-line {
+    background-color: #E5E5E5;
+}
+
+.logo {
+    margin: 15px 0;
+}
+
+.phone_img {
+    display: flex;
+    align-items: center;
+}
+
+.top-menu {
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+    font-weight: 500;
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.top-menu a {
+    color: #222;
+    text-decoration: none;
+}
+
+.phone_number {
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 58px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+
+.header-content {
+    background-color: #f7f7f7;
+}
+
+.header-content .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header-img {
+    max-width: 100%;
+}
+
+.text {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.09em;
+}
+
+.text_page_title {
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 76px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+}
+
+.button_buy-now {
+    width: 219px;
+    height: 50px;
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+}
+
+.scroll-down {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #D1D1D1;
+}
+
+.our-services {
+    background-color: #F5FCFF;
+}
+
+.our-services h1 {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    margin: 64px 0 56px 0;
+}
+
+.additions {
+    background-color: #ffff;
+    box-shadow: -2px 2px 10px rgba(22, 111, 162, 0.54);
+    margin-bottom: 20px;
+}
+
+.additions img {
+    max-width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.first_col {
+    box-shadow: -2px 2px 10px rgba(22, 111, 162, 0.54);
+}
+
+.text_footer {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.09em;
+}
+
+button {
+    width: 161px;
+    height: 50px;
+    background: #09A3FA;
+    border-radius: 5px;
+    margin: 32px 0 40px 0;
+    text-transform: uppercase;
+}
+
+.button_text {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.09em;
+    box-shadow: #09A3FA;
+}
+
+.additions-2 {
+    display: flex;
+}
+
+.footer_img {
+    width: 50%;
+}
+
+.margin_text {
+    margin-top: 80px;
+}
